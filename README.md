@@ -1,6 +1,22 @@
-# NobetciEczanePHP
-Nöbetçi Eczaneleri çekebileceğiniz PHP ile hazırlanmış örnek sınıf.
 
-Sınıf içerisinde ``CACHE_DIR`` sabitini kendi cache klasörüne göre ayarlamanız yeterli. 
+# Wordpress Nöbetci Eczane Eklentisi
 
-Sınıf içerisindeki nöbetçi eczane bilgileri ``ecza.io`` adlı web sitesinden çekilmektedir. Eğer bir sorun teşkil ediyorsa, lütfen bana ``tayfun@erbilen.net`` mail adresinden ulaşın.
+  
+  
+
+Bu eklenti [@tayfunerbilen](https://github.com/tayfunerbilen) yapmış olduğu PHP sınıfını kullanarak [ecza.io](https://ecza.io) data alaraktan çalışmaktadır.
+
+# Kullanım 
+
+Eklentiyi kurup etkinleştirdikten sonra oluşturduğumuz Wordpress Short Code ile kullanabilirsiniz eğer il seçmezseniz Ankara seçili olarak gelir. Kullanmak istediğiniz yerde [nobetciEczane] yazarsanız o günün Ankara ilimizde ki nöbetçi eczanelerini gösterir.
+
+### İl seçimi
+
+[nobetciEczane il="istanbul"]
+
+### Yapmayı düşündüklerim
+
+ - [ ] İlçe seçimi
+ - [ ] Başka veri kaynağı eklenmesi
+ - [ ] Görünümün düzeltilmesi
+

@@ -8,8 +8,8 @@
 class NobetciEczane
 {
 
-    const CACHE_DIR = 'cache';
-
+    
+    const CACHE_DIR = __DIR__.'/cache';
     /**
      * @param $url
      * @param array $posts
