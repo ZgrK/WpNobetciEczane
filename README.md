@@ -2,7 +2,6 @@
 # Wordpress Nöbetci Eczane Eklentisi
 
   
-  
 
 Bu eklenti [@tayfunerbilen](https://github.com/tayfunerbilen) yapmış olduğu PHP sınıfını kullanarak [ecza.io](https://ecza.io) data alaraktan çalışmaktadır.
 
